@@ -12,7 +12,7 @@ IDs = '学号1,学号2,学号3,学号4'
 
 # 高校代码，详见GitHub项目介绍
 # 多人签到暂不支持多个学校签到（你想干嘛？）
-schoolID = 4136010403
+schoolID = 4136010406
 
 # 身份类型 0表示学生 1表示教职工
 identity = 0
@@ -39,11 +39,11 @@ zddlwz = '你的地址'
 # ##########SERVER酱配置###############
 # #SERVER酱Turbo升级版新官网 sct.ftqq.com
 # 是否开启SERVER酱通知 0表示关闭 1表示开启
-server_chan =0
+server_chan =1
 # SERVER酱sendkey，两侧的引号别丢了
 # 查看网址 sct.ftqq.com/sendkey
 # 免费版可每日发送五条推送
-sendkey = '你的key'
+sendkey = 'SCU158064T23c2b353aeb61a9524087da4d1dfbc33601b6e3e281e8'
 
 # ##################################程序开始#########################################
 import time
