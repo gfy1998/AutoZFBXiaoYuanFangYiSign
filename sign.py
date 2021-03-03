@@ -43,7 +43,7 @@ server_chan =1
 # SERVER酱sendkey，两侧的引号别丢了
 # 查看网址 sct.ftqq.com/sendkey
 # 免费版可每日发送五条推送
-sendkey = 'SCU158064T23c2b353aeb61a9524087da4d1dfbc33601b6e3e281e8'
+sendkey = 'SCT14619TltqKh9k2DhzaEhtPz2fHHo0Z'
 
 # ##################################程序开始#########################################
 import time
