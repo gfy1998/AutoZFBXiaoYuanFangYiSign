@@ -1,0 +1,33 @@
+2021-03-14 01:09:39.223377
+历史定位签到模式
+单人签到模式
+当前IP：52.179.14.153,
+
+ 美国加利福尼亚州圣克拉拉Microsoft公司
+
+系统时间：2021-03-14 01:09:40
+UTC时间：2021-03-14 01:09:39
+北京时间：2021-03-14 09:09:39
+北京时间与系统时间误差：7:59:58.144369
+2021-03-14 01:09:40.855702:18204221签到开始
+cookie文件存在
+cookie文件加载成功
+NAME孙成意
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME孙成意
+定位 117.344506，28.57676，江西省上饶市弋阳县弋阳县芳墩村
+{"status":0,"result":{"location":{"lng":117.35632781927544,"lat":28.579981024769557},"formatted_address":"江西省上饶市弋阳县S206","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"弋阳县","town":"","town_code":"","adcode":"361126","street":"S206","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E5%BC%8B%E9%98%B3%E5%8E%BF&street=%E5%BC%8B%E9%98%B3%E5%8E%BF%E8%8A%B3%E5%A2%A9%E6%9D%91&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82%E5%BC%8B%E9%98%B3%E5%8E%BF%E5%BC%8B%E9%98%B3%E5%8E%BF%E8%8A%B3%E5%A2%A9%E6%9D%91&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E5%BC%8B%E9%98%B3%E5%8E%BF&bstreet=%E5%BC%8B%E9%98%B3%E5%8E%BF%E8%8A%B3%E5%A2%A9%E6%9D%91&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E5%BC%8B%E9%98%B3%E5%8E%BF&lng=117.344513&lat=28.576765&sfby=1
+签到成功
+2021-03-14 01:09:56.584100:18204221签到结束
+孙成意18204221签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":1779927260280471554}
+2021-03-14 01:10:03.908762程序结束
+######################################################################
+
+
+
+
