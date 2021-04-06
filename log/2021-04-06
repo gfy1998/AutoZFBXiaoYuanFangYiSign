@@ -98,3 +98,175 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":1813375281865244683}
 
 
 
+2021-04-06 22:45:17.375459
+输入定位签到模式
+多人签到模式18204221,18204219,18204220,18204223,18204217,18204218,18204224,18204222,18204229
+当前IP：52.156.83.51,
+
+ 美国Microsoft公司
+
+系统时间：2021-04-06 22:45:19
+UTC时间：2021-04-06 23:45:18
+北京时间：2021-04-07 06:45:17
+北京时间与系统时间误差：7:59:57.439588
+2021-04-06 22:45:19.560495:18204221签到开始
+cookie文件存在
+cookie文件加载成功
+NAME孙成意
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832608，28.659381，你的地址
+{"status":0,"result":{"location":{"lng":115.84407081710676,"lat":28.661853546520445},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832591&lat=28.659287&sfby=1
+NAME孙成意
+定位 115.832591，28.659287，你的地址
+{"status":0,"result":{"location":{"lng":115.84416476130908,"lat":28.661751600049944},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832685&lat=28.659187&sfby=1
+签到成功
+2021-04-06 22:45:50.280651:18204221签到结束
+2021-04-06 22:45:50.292154:18204219签到开始
+cookie文件存在
+cookie文件加载成功
+NAME罗祥辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832685，28.659187，你的地址
+{"status":0,"result":{"location":{"lng":115.84413805548843,"lat":28.661715150479226},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832658&lat=28.65915&sfby=1
+NAME罗祥辉
+定位 115.832658，28.65915，你的地址
+{"status":0,"result":{"location":{"lng":115.84411298245372,"lat":28.66167351941442},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832633&lat=28.659108&sfby=1
+签到成功
+2021-04-06 22:46:03.643014:18204219签到结束
+2021-04-06 22:46:03.645613:18204220签到开始
+cookie文件存在
+cookie文件加载成功
+NAME漆金勇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832633，28.659108，你的地址
+{"status":0,"result":{"location":{"lng":115.84417997449907,"lat":28.661618414513048},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.8327&lat=28.659054&sfby=1
+NAME漆金勇
+定位 115.8327，28.659054，你的地址
+{"status":0,"result":{"location":{"lng":115.8442300768042,"lat":28.66155925206876},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.83275&lat=28.658996&sfby=1
+签到成功
+2021-04-06 22:46:12.519437:18204220签到结束
+2021-04-06 22:46:12.617486:18204223签到开始
+cookie文件存在
+cookie文件加载成功
+NAME万乐言
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.83275，28.658996，你的地址
+{"status":0,"result":{"location":{"lng":115.84421103126923,"lat":28.661631732341808},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832731&lat=28.659068&sfby=1
+NAME万乐言
+定位 115.832731，28.659068，你的地址
+{"status":0,"result":{"location":{"lng":115.84415272745238,"lat":28.661592825446826},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832673&lat=28.659028&sfby=1
+签到成功
+2021-04-06 22:46:21.277091:18204223签到结束
+2021-04-06 22:46:21.489199:18204217签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘富萍
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832673，28.659028，你的地址
+{"status":0,"result":{"location":{"lng":115.8441919798032,"lat":28.661684137514226},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832712&lat=28.65912&sfby=1
+NAME刘富萍
+定位 115.832712，28.65912，你的地址
+{"status":0,"result":{"location":{"lng":115.84426037907358,"lat":28.661777948926284},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.83278&lat=28.659215&sfby=1
+签到成功
+2021-04-06 22:46:29.940915:18204217签到结束
+2021-04-06 22:46:30.059251:18204218签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘剑鸿
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.83278，28.659215，你的地址
+{"status":0,"result":{"location":{"lng":115.84425631300808,"lat":28.66184122712873},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832776&lat=28.659278&sfby=1
+NAME刘剑鸿
+定位 115.832776，28.659278，你的地址
+{"status":0,"result":{"location":{"lng":115.84425144077555,"lat":28.661938430075716},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832771&lat=28.659375&sfby=1
+签到成功
+2021-04-06 22:46:38.605527:18204218签到结束
+2021-04-06 22:46:38.822900:18204224签到开始
+cookie文件存在
+cookie文件加载成功
+NAME王村吉雄
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832771，28.659375，你的地址
+{"status":0,"result":{"location":{"lng":115.84422418169545,"lat":28.661875673657048},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832744&lat=28.659312&sfby=1
+NAME王村吉雄
+定位 115.832744，28.659312，你的地址
+{"status":0,"result":{"location":{"lng":115.8443091563512,"lat":28.661840076316218},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832829&lat=28.659278&sfby=1
+签到成功
+2021-04-06 22:46:47.002264:18204224签到结束
+2021-04-06 22:46:47.032453:18204222签到开始
+cookie文件存在
+cookie文件加载成功
+NAME唐纪
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832829，28.659278，你的地址
+{"status":0,"result":{"location":{"lng":115.84440042527976,"lat":28.661899599919534},"formatted_address":"江西省南昌市红谷滩区曲水路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"曲水路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.83292&lat=28.659339&sfby=1
+NAME唐纪
+定位 115.83292，28.659339，你的地址
+{"status":0,"result":{"location":{"lng":115.84436336273461,"lat":28.661843244536408},"formatted_address":"江西省南昌市红谷滩区曲水路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"曲水路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832883&lat=28.659282&sfby=1
+签到成功
+2021-04-06 22:46:55.744841:18204222签到结束
+2021-04-06 22:46:55.820678:18204229签到开始
+cookie文件存在
+cookie文件加载成功
+NAME叶成扬
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832883，28.659282，你的地址
+{"status":0,"result":{"location":{"lng":115.84429115742451,"lat":28.661772282071789},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832811&lat=28.65921&sfby=1
+NAME叶成扬
+定位 115.832811，28.65921，你的地址
+{"status":0,"result":{"location":{"lng":115.84421707728613,"lat":28.661804985436736},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%BD%A0%E7%9A%84%E5%9C%B0%E5%9D%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832737&lat=28.659241&sfby=1
+签到成功
+2021-04-06 22:47:03.980298:18204229签到结束
+9人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":1814572599763353600}
+2021-04-06 22:47:06.761185程序结束
+######################################################################
+
+
+
+
