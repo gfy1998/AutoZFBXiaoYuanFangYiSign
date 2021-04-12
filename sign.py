@@ -8,7 +8,7 @@ signs = 0
 yourID = 18204221
 # 多人签到学号组，部分学校可能用一卡通号等代替。可以到  https://fxgl.jx.edu.cn/你的高校代码/   自己尝试一下
 # 仅当选择多人签到，即上面signs = 1时才需要配置，否则可以忽略，使用英语逗号 , 将每个学号分开哦，需要是同一个学校，两侧的引号别丢了
-IDs = '18204221'
+IDs = '18204217,18204221,18204229'
 
 # 高校代码，详见GitHub项目介绍
 # 多人签到暂不支持多个学校签到（你想干嘛？）
@@ -419,9 +419,12 @@ if __name__ == "__main__":
     nowtime = datetime.datetime.now()
     if signs == 0:
         print(str(nowtime) + ':' + str(yourID) + '开始')
+        # 随机间隔一段时间
+        time.sleep(30*random.randint(0,9))
         nowtime = datetime.datetime.now()
         log.write(str(nowtime) + ':' + str(yourID) + '签到开始\n')
         return_state = start(yourID)
+        time.sleep(30*random.randint(0,9))
         nowtime = datetime.datetime.now()
         log.write(str(nowtime) + ':' + str(yourID) + '签到结束\n')
         print('\n\n\n')
@@ -429,9 +432,11 @@ if __name__ == "__main__":
     else:
         for signID in IDList:
             print(str(nowtime) + ':' + signID + '开始')
+            time.sleep(30*random.randint(0,9))
             nowtime = datetime.datetime.now()
             log.write(str(nowtime) + ':' + signID + '签到开始\n')
             return_state = start(int(signID))
+            time.sleep(30*random.randint(0,9))
             nowtime = datetime.datetime.now()
             log.write(str(nowtime) + ':' + signID + '签到结束\n')
             print('\n\n\n')
