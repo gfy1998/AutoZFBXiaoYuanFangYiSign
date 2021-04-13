@@ -1,7 +1,7 @@
 # ##############################用户数据配置#######################################
 
 # 签到模式 0表示单人签到 1表示多人签到
-signs = 0
+signs = 1
 
 # 单人签到学号，部分学校可能用一卡通号等代替。可以到 https://fxgl.jx.edu.cn/你的高校代码/  自己尝试一下
 # 仅当选择单人签到，即上面signs = 0时才需要配置，否则可以忽略
@@ -418,25 +418,26 @@ if __name__ == "__main__":
     initialization()
     nowtime = datetime.datetime.now()
     if signs == 0:
-        print(str(nowtime) + ':' + str(yourID) + '开始')
         # 随机间隔一段时间
-        time.sleep(30*random.randint(0,9))
+        time.sleep(60*random.randint(0,9))
+        print(str(nowtime) + ':' + str(yourID) + '开始')
         nowtime = datetime.datetime.now()
         log.write(str(nowtime) + ':' + str(yourID) + '签到开始\n')
         return_state = start(yourID)
-        time.sleep(30*random.randint(0,9))
         nowtime = datetime.datetime.now()
         log.write(str(nowtime) + ':' + str(yourID) + '签到结束\n')
         print('\n\n\n')
         statistics(return_state)
     else:
         for signID in IDList:
+            # 随机间隔一段时间
+            time.sleep(60*random.randint(0,9))
             print(str(nowtime) + ':' + signID + '开始')
-            time.sleep(30*random.randint(0,9))
+            
             nowtime = datetime.datetime.now()
             log.write(str(nowtime) + ':' + signID + '签到开始\n')
             return_state = start(int(signID))
-            time.sleep(30*random.randint(0,9))
+          
             nowtime = datetime.datetime.now()
             log.write(str(nowtime) + ':' + signID + '签到结束\n')
             print('\n\n\n')
