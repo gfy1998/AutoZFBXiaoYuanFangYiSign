@@ -71,13 +71,17 @@ message = "AutoZFBXiaoYuanFangYiSign打卡通知：\n"
 count = [0, 0, 0]
 # 日期
 today = datetime.date.today()
+# 今天是否已经签到成功了
+isSuccess = False
 # log文件
 if os.path.isdir('log') is False:
     os.mkdir('log')
 log = open('log/' + str(today), 'a+')
 pointer = log.tell()
-IDList = IDs.split(',')
-
+if os.path.isfile('log'+str(today)) is False:
+    IDList = IDs.split(',')
+if os.path.isfile('log'+str(today)) is True:
+    isSuccess = True
 
 def login():
     url = 'https://fxgl.jx.edu.cn/' + str(schoolID) + '/public/homeQd?loginName=' + str(ID) + '&loginType=' + str(
@@ -414,9 +418,14 @@ def initialization():
 
 
 if __name__ == "__main__":
+     nowtime = datetime.datetime.now()
+    if(isSuccess){
+        log.write('今天已经签到\n\n\n')
+        exit_program()
+    }
     ssl._create_default_https_context = ssl._create_unverified_context
     initialization()
-    nowtime = datetime.datetime.now()
+    # nowtime = datetime.datetime.now()
     if signs == 0:
         # 随机间隔一段时间
         time.sleep(60*random.randint(0,9))
