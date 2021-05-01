@@ -418,7 +418,7 @@ def initialization():
 
 
 if __name__ == "__main__":
-     nowtime = datetime.datetime.now()
+    nowtime = datetime.datetime.now()
     if isSuccess is True:
         log.write('今天已经签到\n\n\n')
         exit_program()
