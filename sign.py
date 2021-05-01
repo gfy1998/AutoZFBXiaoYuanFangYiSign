@@ -427,7 +427,7 @@ if __name__ == "__main__":
     # nowtime = datetime.datetime.now()
     if signs == 0:
         # 随机间隔一段时间
-        time.sleep(60*random.randint(0,9))
+        #time.sleep(60*random.randint(0,9))
         print(str(nowtime) + ':' + str(yourID) + '开始')
         nowtime = datetime.datetime.now()
         log.write(str(nowtime) + ':' + str(yourID) + '签到开始\n')
