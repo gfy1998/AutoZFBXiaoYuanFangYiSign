@@ -422,7 +422,6 @@ if __name__ == "__main__":
     if isSuccess is True:
         log.write('今天已经签到\n\n\n')
         exit_program()
-    
     ssl._create_default_https_context = ssl._create_unverified_context
     initialization()
     # nowtime = datetime.datetime.now()
