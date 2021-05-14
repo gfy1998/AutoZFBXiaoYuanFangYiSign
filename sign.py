@@ -58,6 +58,7 @@ import urllib
 from http import cookiejar
 from urllib import parse
 import requests
+import sys
 
 # 全局变量，保存姓名
 name = None
@@ -423,6 +424,8 @@ if __name__ == "__main__":
     log.write(''+str(nowtime)+' success:'+str(isSuccess))
     if isSuccess is True:
         log.write('今天已经签到\n\n\n')
+        # 退出程序
+        sys.exit(0)
         exit_program()
     ssl._create_default_https_context = ssl._create_unverified_context
     initialization()
