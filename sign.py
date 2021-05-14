@@ -80,7 +80,7 @@ log = open('log/' + str(today), 'a+')
 pointer = log.tell()
 if os.path.isfile('log'+str(today)) is False:
     IDList = IDs.split(',')
-if os.path.isfile('log'+str(today)) is True:
+if os.path.isfile('log/'+str(today)) is True:
     log.wirte('今天已经签到')
     isSuccess = True
 
