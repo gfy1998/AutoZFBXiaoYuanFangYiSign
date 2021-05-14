@@ -81,7 +81,7 @@ pointer = log.tell()
 if os.path.isfile('log'+str(today)) is False:
     IDList = IDs.split(',')
 if os.path.isfile('log/'+str(today)) is True:
-    log.wirte('今天已经签到')
+    log.write('今天已经签到')
     isSuccess = True
 
 def login():
