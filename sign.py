@@ -77,13 +77,15 @@ isSuccess = False
 # log文件
 if os.path.isdir('log') is False:
     os.mkdir('log')
+ # 今天是否已经签到
+if os.path.isfile('log/'+str(today)) is True:
+    log.write('今天已经签到')
+    isSuccess = True
 log = open('log/' + str(today), 'a+')
 pointer = log.tell()
 if os.path.isfile('log'+str(today)) is False:
     IDList = IDs.split(',')
-if os.path.isfile('log/'+str(today)) is True:
-    log.write('今天已经签到')
-    isSuccess = True
+
 
 def login():
     url = 'https://fxgl.jx.edu.cn/' + str(schoolID) + '/public/homeQd?loginName=' + str(ID) + '&loginType=' + str(
