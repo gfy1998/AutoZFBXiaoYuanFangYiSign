@@ -1,0 +1,61 @@
+2021-06-23 00:22:27.421882 success:False2021-06-23 00:22:27.421897
+历史定位签到模式
+多人签到模式18204217,18204221,18204219
+当前IP：52.151.39.46,
+
+ 美国Microsoft公司
+
+系统时间：2021-06-23 00:22:32
+UTC时间：2021-06-23 01:22:24
+北京时间：2021-06-23 08:22:24
+北京时间与系统时间误差：7:59:51.789866
+2021-06-23 00:31:32.277427:18204217签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘富萍
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME刘富萍
+定位 115.826336，28.650555，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.83779335415612,"lat":28.65323523779612},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.826326&lat=28.650552&sfby=1
+签到成功
+2021-06-23 00:32:04.905728:18204217签到结束
+2021-06-23 00:38:05.129414:18204221签到开始
+cookie文件存在
+cookie文件加载成功
+NAME孙成意
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME孙成意
+定位 115.82881，28.650335，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.84027918908636,"lat":28.652971191641055},"formatted_address":"江西省南昌市红谷滩区岭北一路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"岭北一路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.828807&lat=28.650337&sfby=1
+签到成功
+2021-06-23 00:38:29.942505:18204221签到结束
+2021-06-23 00:42:30.161450:18204219签到开始
+cookie文件存在
+cookie文件加载成功
+NAME罗祥辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME罗祥辉
+定位 115.827211，28.652742，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.8386869073249,"lat":28.65541796378496},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.827218&lat=28.652751&sfby=1
+签到成功
+2021-06-23 00:42:39.081438:18204219签到结束
+3人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":1926304434976800776}
+2021-06-23 00:42:43.769122程序结束
+######################################################################
+
+
+
+
