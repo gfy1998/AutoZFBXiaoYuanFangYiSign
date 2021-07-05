@@ -1,0 +1,79 @@
+2021-07-05 00:21:18.146193 success:False2021-07-05 00:21:18.146207
+历史定位签到模式
+多人签到模式18204217,18204221,18204219,18204229,18204231
+当前IP：40.117.101.158,
+
+ 美国弗吉尼亚州博伊顿Microsoft数据中心
+
+系统时间：2021-07-05 00:21:23
+UTC时间：2021-07-05 01:21:16
+北京时间：2021-07-05 08:21:16
+北京时间与系统时间误差：7:59:52.706878
+2021-07-05 00:26:23.358979:18204217签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘富萍
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME刘富萍
+定位 115.826326，28.650544，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.83779117439259,"lat":28.6532344634166},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"丰和南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.826324&lat=28.650551&sfby=1
+签到成功
+2021-07-05 00:27:00.114175:18204217签到结束
+2021-07-05 00:34:00.240339:18204221签到开始
+cookie文件存在
+cookie文件加载成功
+NAME孙成意
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2021-07-05 00:34:23.582899:18204221签到结束
+2021-07-05 00:43:23.614937:18204219签到开始
+cookie文件存在
+cookie文件加载成功
+NAME罗祥辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2021-07-05 00:43:51.913251:18204219签到结束
+2021-07-05 00:47:52.123049:18204229签到开始
+cookie文件存在
+cookie文件加载成功
+NAME叶成扬
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME叶成扬
+定位 116.618353，28.654732，江西省上饶市余干县余干县河东叶家
+{"status":0,"result":{"location":{"lng":116.62949946709198,"lat":28.657588009173428},"formatted_address":"江西省上饶市余干县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"余干县","town":"","town_code":"","adcode":"361127","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E4%BD%99%E5%B9%B2%E5%8E%BF&street=%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82%E4%BD%99%E5%B9%B2%E5%8E%BF%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E4%BD%99%E5%B9%B2%E5%8E%BF&bstreet=%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E4%BD%99%E5%B9%B2%E5%8E%BF&lng=116.618357&lat=28.654733&sfby=1
+签到成功
+2021-07-05 00:48:07.926412:18204229签到结束
+2021-07-05 00:53:08.182948:18204231签到开始
+cookie文件存在
+cookie文件加载成功
+NAME贾睿恩
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME贾睿恩
+定位 111.681533，40.854497，内蒙古自治区呼和浩特市新城区哲里木路9号阳光诺卡一期
+{"status":0,"result":{"location":{"lng":111.69485747678148,"lat":40.861845348444017},"formatted_address":"内蒙古自治区呼和浩特市新城区兴安北路47","business":"阿尔泰,赛马场,呼和佳地","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"内蒙古自治区","city":"呼和浩特市","city_level":2,"district":"新城区","town":"","town_code":"","adcode":"150102","street":"兴安北路","street_number":"47","direction":"附近","distance":"28"},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":321}}
+province=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&city=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82&district=%E6%96%B0%E5%9F%8E%E5%8C%BA&street=%E5%93%B2%E9%87%8C%E6%9C%A8%E8%B7%AF9%E5%8F%B7%E9%98%B3%E5%85%89%E8%AF%BA%E5%8D%A1%E4%B8%80%E6%9C%9F&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82%E6%96%B0%E5%9F%8E%E5%8C%BA%E5%93%B2%E9%87%8C%E6%9C%A8%E8%B7%AF9%E5%8F%B7%E9%98%B3%E5%85%89%E8%AF%BA%E5%8D%A1%E4%B8%80%E6%9C%9F&sddlwz=&bprovince=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&bcity=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82&bdistrict=%E6%96%B0%E5%9F%8E%E5%8C%BA&bstreet=%E5%93%B2%E9%87%8C%E6%9C%A8%E8%B7%AF9%E5%8F%B7%E9%98%B3%E5%85%89%E8%AF%BA%E5%8D%A1%E4%B8%80%E6%9C%9F&sprovince=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&scity=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82&sdistrict=%E6%96%B0%E5%9F%8E%E5%8C%BA&lng=111.681524&lat=40.854489&sfby=1
+签到成功
+2021-07-05 00:53:32.136009:18204231签到结束
+5人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":1943710054268878855}
+2021-07-05 00:53:38.953716程序结束
+######################################################################
+
+
+
+
