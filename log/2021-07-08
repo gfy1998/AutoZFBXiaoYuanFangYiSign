@@ -1,0 +1,84 @@
+2021-07-08 00:21:17.594426 success:False2021-07-08 00:21:17.594441
+历史定位签到模式
+多人签到模式18204217,18204221,18204219,18204229,18204231
+当前IP：51.143.101.99,
+
+ 美国华盛顿州昆西Microsoft公司
+
+系统时间：2021-07-08 00:21:19
+UTC时间：2021-07-08 01:21:15
+北京时间：2021-07-08 08:21:15
+北京时间与系统时间误差：7:59:55.965630
+2021-07-08 00:24:19.050140:18204217签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘富萍
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME刘富萍
+定位 113.726511，27.681934，江西省萍乡市湘东区昌金高速公路黄其剑诊所
+{"status":0,"result":{"location":{"lng":113.73852227143634,"lat":27.684679761268816},"formatted_address":"江西省萍乡市湘东区","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"萍乡市","city_level":2,"district":"湘东区","town":"","town_code":"","adcode":"360313","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":350}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%90%8D%E4%B9%A1%E5%B8%82&district=%E6%B9%98%E4%B8%9C%E5%8C%BA&street=%E6%98%8C%E9%87%91%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%BB%84%E5%85%B6%E5%89%91%E8%AF%8A%E6%89%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%90%8D%E4%B9%A1%E5%B8%82%E6%B9%98%E4%B8%9C%E5%8C%BA%E6%98%8C%E9%87%91%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%BB%84%E5%85%B6%E5%89%91%E8%AF%8A%E6%89%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%90%8D%E4%B9%A1%E5%B8%82&bdistrict=%E6%B9%98%E4%B8%9C%E5%8C%BA&bstreet=%E6%98%8C%E9%87%91%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%BB%84%E5%85%B6%E5%89%91%E8%AF%8A%E6%89%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%90%8D%E4%B9%A1%E5%B8%82&sdistrict=%E6%B9%98%E4%B8%9C%E5%8C%BA&lng=113.726507&lat=27.681928&sfby=1
+签到成功
+2021-07-08 00:24:39.112356:18204217签到结束
+2021-07-08 00:28:39.405686:18204221签到开始
+cookie文件存在
+cookie文件加载成功
+NAME孙成意
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME孙成意
+定位 117.344316，28.576864，江西省上饶市弋阳县弋阳县芳墩村
+{"status":0,"result":{"location":{"lng":117.35613518931666,"lat":28.58007200152038},"formatted_address":"江西省上饶市弋阳县S206","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"弋阳县","town":"","town_code":"","adcode":"361126","street":"S206","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E5%BC%8B%E9%98%B3%E5%8E%BF&street=%E5%BC%8B%E9%98%B3%E5%8E%BF%E8%8A%B3%E5%A2%A9%E6%9D%91&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82%E5%BC%8B%E9%98%B3%E5%8E%BF%E5%BC%8B%E9%98%B3%E5%8E%BF%E8%8A%B3%E5%A2%A9%E6%9D%91&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E5%BC%8B%E9%98%B3%E5%8E%BF&bstreet=%E5%BC%8B%E9%98%B3%E5%8E%BF%E8%8A%B3%E5%A2%A9%E6%9D%91&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E5%BC%8B%E9%98%B3%E5%8E%BF&lng=117.34432&lat=28.576858&sfby=1
+签到成功
+2021-07-08 00:28:47.739347:18204221签到结束
+2021-07-08 00:35:47.911899:18204219签到开始
+cookie文件存在
+cookie文件加载成功
+NAME罗祥辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2021-07-08 00:36:07.522587:18204219签到结束
+2021-07-08 00:45:07.639157:18204229签到开始
+cookie文件存在
+cookie文件加载成功
+NAME叶成扬
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME叶成扬
+定位 116.618362，28.654721，江西省上饶市余干县余干县河东叶家
+{"status":0,"result":{"location":{"lng":116.62950730592053,"lat":28.65758106774083},"formatted_address":"江西省上饶市余干县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"余干县","town":"","town_code":"","adcode":"361127","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E4%BD%99%E5%B9%B2%E5%8E%BF&street=%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82%E4%BD%99%E5%B9%B2%E5%8E%BF%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E4%BD%99%E5%B9%B2%E5%8E%BF&bstreet=%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E4%BD%99%E5%B9%B2%E5%8E%BF&lng=116.618365&lat=28.654726&sfby=1
+签到成功
+2021-07-08 00:45:34.774302:18204229签到结束
+2021-07-08 00:54:35.001023:18204231签到开始
+cookie文件存在
+cookie文件加载成功
+NAME贾睿恩
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME贾睿恩
+定位 111.681535，40.854498，内蒙古自治区呼和浩特市新城区哲里木路9号阳光诺卡一期
+{"status":0,"result":{"location":{"lng":111.69486529245663,"lat":40.86184629945522},"formatted_address":"内蒙古自治区呼和浩特市新城区兴安北路47","business":"阿尔泰,赛马场,呼和佳地","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"内蒙古自治区","city":"呼和浩特市","city_level":2,"district":"新城区","town":"","town_code":"","adcode":"150102","street":"兴安北路","street_number":"47","direction":"附近","distance":"27"},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":321}}
+province=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&city=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82&district=%E6%96%B0%E5%9F%8E%E5%8C%BA&street=%E5%93%B2%E9%87%8C%E6%9C%A8%E8%B7%AF9%E5%8F%B7%E9%98%B3%E5%85%89%E8%AF%BA%E5%8D%A1%E4%B8%80%E6%9C%9F&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82%E6%96%B0%E5%9F%8E%E5%8C%BA%E5%93%B2%E9%87%8C%E6%9C%A8%E8%B7%AF9%E5%8F%B7%E9%98%B3%E5%85%89%E8%AF%BA%E5%8D%A1%E4%B8%80%E6%9C%9F&sddlwz=&bprovince=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&bcity=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82&bdistrict=%E6%96%B0%E5%9F%8E%E5%8C%BA&bstreet=%E5%93%B2%E9%87%8C%E6%9C%A8%E8%B7%AF9%E5%8F%B7%E9%98%B3%E5%85%89%E8%AF%BA%E5%8D%A1%E4%B8%80%E6%9C%9F&sprovince=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&scity=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82&sdistrict=%E6%96%B0%E5%9F%8E%E5%8C%BA&lng=111.681532&lat=40.85449&sfby=1
+签到成功
+2021-07-08 00:55:04.246453:18204231签到结束
+5人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":1948060262041731074}
+2021-07-08 00:55:11.282581程序结束
+######################################################################
+
+
+
+
