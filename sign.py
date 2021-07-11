@@ -446,7 +446,7 @@ if __name__ == "__main__":
     else:
         for signID in IDList:
             # 随机间隔一段时间
-            time.sleep(60*random.randint(0,9))
+            time.sleep(60*random.randint(0,1))
             print(str(nowtime) + ':' + signID + '开始')
             
             nowtime = datetime.datetime.now()
