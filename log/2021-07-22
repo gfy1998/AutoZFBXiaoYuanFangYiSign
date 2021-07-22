@@ -1,0 +1,33 @@
+2021-07-22 01:23:49.472995 success:False2021-07-22 01:23:49.473007
+历史定位签到模式
+单人签到模式
+当前IP：52.170.188.48,
+
+ 美国加利福尼亚州圣克拉拉Microsoft公司
+
+系统时间：2021-07-22 01:23:53
+UTC时间：2021-07-22 02:23:46
+北京时间：2021-07-22 09:23:46
+北京时间与系统时间误差：7:59:52.022401
+2021-07-22 01:23:53.977653:18204221签到开始
+cookie文件存在
+cookie文件加载成功
+NAME孙成意
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME孙成意
+定位 120.076337，29.335495，浙江省金华市义乌市稠城街道雪峰东路91号义乌市民防局
+{"status":0,"result":{"location":{"lng":120.08763052651345,"lat":29.33886692944023},"formatted_address":"浙江省金华市义乌市西城北路","business":"北苑,稠城","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"浙江省","city":"金华市","city_level":2,"district":"义乌市","town":"","town_code":"","adcode":"330782","street":"西城北路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":333}}
+province=%E6%B5%99%E6%B1%9F%E7%9C%81&city=%E9%87%91%E5%8D%8E%E5%B8%82&district=%E4%B9%89%E4%B9%8C%E5%B8%82&street=%E7%A8%A0%E5%9F%8E%E8%A1%97%E9%81%93%E9%9B%AA%E5%B3%B0%E4%B8%9C%E8%B7%AF91%E5%8F%B7%E4%B9%89%E4%B9%8C%E5%B8%82%E6%B0%91%E9%98%B2%E5%B1%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B5%99%E6%B1%9F%E7%9C%81%E9%87%91%E5%8D%8E%E5%B8%82%E4%B9%89%E4%B9%8C%E5%B8%82%E7%A8%A0%E5%9F%8E%E8%A1%97%E9%81%93%E9%9B%AA%E5%B3%B0%E4%B8%9C%E8%B7%AF91%E5%8F%B7%E4%B9%89%E4%B9%8C%E5%B8%82%E6%B0%91%E9%98%B2%E5%B1%80&sddlwz=&bprovince=%E6%B5%99%E6%B1%9F%E7%9C%81&bcity=%E9%87%91%E5%8D%8E%E5%B8%82&bdistrict=%E4%B9%89%E4%B9%8C%E5%B8%82&bstreet=%E7%A8%A0%E5%9F%8E%E8%A1%97%E9%81%93%E9%9B%AA%E5%B3%B0%E4%B8%9C%E8%B7%AF91%E5%8F%B7%E4%B9%89%E4%B9%8C%E5%B8%82%E6%B0%91%E9%98%B2%E5%B1%80&sprovince=%E6%B5%99%E6%B1%9F%E7%9C%81&scity=%E9%87%91%E5%8D%8E%E5%B8%82&sdistrict=%E4%B9%89%E4%B9%8C%E5%B8%82&lng=120.07634&lat=29.335491&sfby=1
+签到成功
+2021-07-22 01:24:23.398464:18204221签到结束
+孙成意18204221签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":1968383514827898884}
+2021-07-22 01:24:36.398496程序结束
+######################################################################
+
+
+
+
