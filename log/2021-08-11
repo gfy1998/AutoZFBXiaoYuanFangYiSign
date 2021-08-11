@@ -1,0 +1,84 @@
+2021-08-11 01:03:19.060816 success:False2021-08-11 01:03:19.060831
+历史定位签到模式
+多人签到模式18204217,18204221,18204219,18204229,18204231
+当前IP：52.250.123.0,
+
+ 美国华盛顿州摩西湖市Microsoft数据中心
+
+系统时间：2021-08-11 01:03:35
+UTC时间：2021-08-11 02:03:30
+北京时间：2021-08-11 09:03:19
+北京时间与系统时间误差：7:59:43.850892
+2021-08-11 01:07:35.218062:18204217签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘富萍
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME刘富萍
+定位 113.726466，27.681991，江西省萍乡市湘东区昌金高速公路黄其剑诊所
+{"status":0,"result":{"location":{"lng":113.73849036894325,"lat":27.684734252286757},"formatted_address":"江西省萍乡市湘东区","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"萍乡市","city_level":2,"district":"湘东区","town":"","town_code":"","adcode":"360313","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":350}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%90%8D%E4%B9%A1%E5%B8%82&district=%E6%B9%98%E4%B8%9C%E5%8C%BA&street=%E6%98%8C%E9%87%91%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%BB%84%E5%85%B6%E5%89%91%E8%AF%8A%E6%89%80&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%90%8D%E4%B9%A1%E5%B8%82%E6%B9%98%E4%B8%9C%E5%8C%BA%E6%98%8C%E9%87%91%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%BB%84%E5%85%B6%E5%89%91%E8%AF%8A%E6%89%80&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%90%8D%E4%B9%A1%E5%B8%82&bdistrict=%E6%B9%98%E4%B8%9C%E5%8C%BA&bstreet=%E6%98%8C%E9%87%91%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%BB%84%E5%85%B6%E5%89%91%E8%AF%8A%E6%89%80&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%90%8D%E4%B9%A1%E5%B8%82&sdistrict=%E6%B9%98%E4%B8%9C%E5%8C%BA&lng=113.726475&lat=27.681983&sfby=1
+签到成功
+2021-08-11 01:08:05.023394:18204217签到结束
+2021-08-11 01:15:05.238062:18204221签到开始
+cookie文件存在
+cookie文件加载成功
+NAME孙成意
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME孙成意
+定位 120.238521，30.215789，浙江省杭州市萧山区文明路佳丰南苑
+{"status":0,"result":{"location":{"lng":120.24939756315649,"lat":30.219688418287978},"formatted_address":"浙江省杭州市萧山区文明路","business":"北干,文明路,江南","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"浙江省","city":"杭州市","city_level":2,"district":"萧山区","town":"","town_code":"","adcode":"330109","street":"文明路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":179}}
+province=%E6%B5%99%E6%B1%9F%E7%9C%81&city=%E6%9D%AD%E5%B7%9E%E5%B8%82&district=%E8%90%A7%E5%B1%B1%E5%8C%BA&street=%E6%96%87%E6%98%8E%E8%B7%AF%E4%BD%B3%E4%B8%B0%E5%8D%97%E8%8B%91&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%90%A7%E5%B1%B1%E5%8C%BA%E6%96%87%E6%98%8E%E8%B7%AF%E4%BD%B3%E4%B8%B0%E5%8D%97%E8%8B%91&sddlwz=&bprovince=%E6%B5%99%E6%B1%9F%E7%9C%81&bcity=%E6%9D%AD%E5%B7%9E%E5%B8%82&bdistrict=%E8%90%A7%E5%B1%B1%E5%8C%BA&bstreet=%E6%96%87%E6%98%8E%E8%B7%AF%E4%BD%B3%E4%B8%B0%E5%8D%97%E8%8B%91&sprovince=%E6%B5%99%E6%B1%9F%E7%9C%81&scity=%E6%9D%AD%E5%B7%9E%E5%B8%82&sdistrict=%E8%90%A7%E5%B1%B1%E5%8C%BA&lng=120.238519&lat=30.215788&sfby=1
+签到成功
+2021-08-11 01:15:38.666859:18204221签到结束
+2021-08-11 01:23:38.786061:18204219签到开始
+cookie文件存在
+cookie文件加载成功
+NAME罗祥辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2021-08-11 01:24:02.009541:18204219签到结束
+2021-08-11 01:27:02.255362:18204229签到开始
+cookie文件存在
+cookie文件加载成功
+NAME叶成扬
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME叶成扬
+定位 116.620212，28.653366，江西省上饶市余干县余干县河东叶家
+{"status":0,"result":{"location":{"lng":116.63135841999336,"lat":28.656238593860388},"formatted_address":"江西省上饶市余干县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"余干县","town":"","town_code":"","adcode":"361127","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E4%BD%99%E5%B9%B2%E5%8E%BF&street=%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82%E4%BD%99%E5%B9%B2%E5%8E%BF%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E4%BD%99%E5%B9%B2%E5%8E%BF&bstreet=%E4%BD%99%E5%B9%B2%E5%8E%BF%E6%B2%B3%E4%B8%9C%E5%8F%B6%E5%AE%B6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E4%BD%99%E5%B9%B2%E5%8E%BF&lng=116.62022&lat=28.653357&sfby=1
+签到成功
+2021-08-11 01:27:18.649682:18204229签到结束
+2021-08-11 01:27:18.886504:18204231签到开始
+cookie文件存在
+cookie文件加载成功
+NAME贾睿恩
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME贾睿恩
+定位 111.700884，41.527105，内蒙古自治区乌兰察布市四子王旗建国路祥瑞花园
+{"status":0,"result":{"location":{"lng":111.71425742023712,"lat":41.535272731738967},"formatted_address":"内蒙古自治区乌兰察布市四子王旗和平路","business":"和平路,车站,新华街","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"内蒙古自治区","city":"乌兰察布市","city_level":2,"district":"四子王旗","town":"","town_code":"","adcode":"150929","street":"和平路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":168}}
+province=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&city=%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E5%B8%82&district=%E5%9B%9B%E5%AD%90%E7%8E%8B%E6%97%97&street=%E5%BB%BA%E5%9B%BD%E8%B7%AF%E7%A5%A5%E7%91%9E%E8%8A%B1%E5%9B%AD&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E5%B8%82%E5%9B%9B%E5%AD%90%E7%8E%8B%E6%97%97%E5%BB%BA%E5%9B%BD%E8%B7%AF%E7%A5%A5%E7%91%9E%E8%8A%B1%E5%9B%AD&sddlwz=&bprovince=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&bcity=%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E5%B8%82&bdistrict=%E5%9B%9B%E5%AD%90%E7%8E%8B%E6%97%97&bstreet=%E5%BB%BA%E5%9B%BD%E8%B7%AF%E7%A5%A5%E7%91%9E%E8%8A%B1%E5%9B%AD&sprovince=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA&scity=%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E5%B8%82&sdistrict=%E5%9B%9B%E5%AD%90%E7%8E%8B%E6%97%97&lng=111.700891&lat=41.527111&sfby=1
+签到成功
+2021-08-11 01:27:26.632169:18204231签到结束
+5人全部签到成功!
+SERVER发送失败：
+2021-08-11 01:28:32.359785程序结束
+######################################################################
+
+
+
+
