@@ -1,0 +1,33 @@
+2021-11-30 00:38:09.677326 success:False2021-11-30 00:38:09.677341
+历史定位签到模式
+单人签到模式
+当前IP：20.114.126.0,
+
+ 美国DXCTechnology
+
+系统时间：2021-11-30 00:38:57
+UTC时间：2021-11-30 00:38:57
+北京时间：2021-11-30 08:38:44
+北京时间与系统时间误差：7:59:46.069458
+2021-11-30 00:38:57.930624:2020102634签到开始
+cookie文件存在
+cookie文件加载成功
+NAME高飞杨
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME高飞杨
+定位 116.032316，28.689219，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04383974875681,"lat":28.692483357179296},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032315&lat=28.689216&sfby=1
+签到成功
+2021-11-30 00:39:23.961556:2020102634签到结束
+高飞杨2020102634签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2158229363329204229}
+2021-11-30 00:39:26.282950程序结束
+######################################################################
+
+
+
+
